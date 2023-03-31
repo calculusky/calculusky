@@ -10,6 +10,7 @@ I am a passionate software developer with over 4 years of experience in the fiel
 - NoSQL (MongoDB, DynamoDB, Firestore)
 - FastAPI
 - AWS
+- Docker
 - React
 - Redis
 - RabbitMQ
