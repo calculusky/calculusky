@@ -7,7 +7,7 @@ I am a passionate software developer with over 4 years of experience in the fiel
 - Python
 - NodeJS (Express, Nest)
 - SQL (MySQL, PostgreSQL, MsSQL)
-- NoSQL (MongoDB)
+- NoSQL (MongoDB, DynamoDB, Firestore)
 - FastAPI
 - AWS
 - React
