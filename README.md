@@ -1,6 +1,6 @@
 # Hi, Welcome to my GitHub Page!
 
-I am a passionate software developer with over 4 years of experience in the field. I have a diverse skill set, with experience in various programming languages and stacks:
+I am a passionate software developer with over 6 years of experience in the field. I have a diverse skill set, with experience in various programming languages and stacks:
 
 - JavaScript 
 - Typescript
@@ -16,9 +16,8 @@ I am a passionate software developer with over 4 years of experience in the fiel
 - RabbitMQ
 - Kafka
 - And more!
-- Currently learning Software Architecture
 
-In addition to software development, I am also interested in architecture and security. Furthermore, I hold a degree in Computer Engineering and have experience in building automated hardware systems.
+In addition to software development, I am also experienced in software architecture and security. Furthermore, I hold a degree in Computer Engineering and have experience in building automated hardware systems.
 
 Most of my projects are private, but feel free to reach out to me if you would like to see them or if you have any questions. I am always available and happy to help.
 
