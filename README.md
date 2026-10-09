@@ -1,6 +1,6 @@
 # Hi, Welcome to my GitHub Page!
 
-I am a passionate software developer with over 6 years of experience in the field. I have a diverse skill set, with experience in various programming languages and stacks:
+I am a passionate software developer with over 7 years of experience in the field. I have a diverse skill set, with experience in various programming languages, frameworks, and tools:
 
 - JavaScript 
 - Typescript
@@ -10,11 +10,14 @@ I am a passionate software developer with over 6 years of experience in the fiel
 - NoSQL (MongoDB, DynamoDB, Firestore)
 - FastAPI
 - AWS
+- GCP
 - Docker
-- React
+- Reactjs
+- Nextjs
 - Redis
 - RabbitMQ
 - Kafka
+- AI Coding Assistant/Agent (Claude, Codex, Cursor)
 - And more!
 
 In addition to software development, I am also experienced in software architecture and security. Furthermore, I hold a degree in Computer Engineering and have experience in building automated hardware systems.
